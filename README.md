@@ -2,9 +2,8 @@ Simple Calculator Program in Assembly Language
 
 This assembly language program implements a simple calculator that performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
-1. Files:
+1. File:
    - calculator.asm: This file contains the source code for the simple calculator program.
-   - calculator.exe: This is the compiled executable file generated after assembling the source code.
 
 2. How to Compile and Run:
    - To compile the assembly code, you need an assembler like TASM (Turbo Assembler) or NASM (Netwide Assembler).
